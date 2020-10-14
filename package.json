@@ -1,0 +1,42 @@
+{
+  "name": "gitflow-practice",
+  "version": "1.0.0",
+  "description": "gitflow 연습",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhjgit/gitflow-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhjgit/gitflow-practice/issues"
+  },
+  "homepage": "https://github.com/jhjgit/gitflow-practice#readme",
+  "devDependencies": {
+    "axios": "^0.20.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "eslint": "^7.11.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.1",
+    "react-script": "^2.0.5",
+    "redux": "^4.0.5"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "react-router-dom": "^5.2.0",
+    "sequelize": "^6.3.5",
+    "sequelize-cli": "^6.2.0"
+  }
+}
